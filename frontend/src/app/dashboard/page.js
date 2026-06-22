@@ -33,7 +33,6 @@ function DashboardPage() {
       <DashboardCard
         title={"Savings Rate"}
         textColor={"green"}
-        amount={10}
         smallText={"Of Income"}
       />
     </div>
